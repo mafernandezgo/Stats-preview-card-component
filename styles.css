@@ -68,17 +68,6 @@ img, .rightdiv{
     border-bottom-right-radius: 15px;
 }
 
-.attribution { 
-    bottom: 0;
-    color: hsla(0, 0%, 100%, 0.6);
-    font-family:'Lexend Deca', sans-serif;
-    font-size: 11px; 
-}
-
-.attribution a { 
-    color: hsl(228, 45%, 44%); 
-}
-
 @media (max-width: 700px) {
 
     .card{
